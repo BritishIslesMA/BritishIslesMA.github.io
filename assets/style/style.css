@@ -5,10 +5,11 @@ div.content {
 
 @font-face {
     font-family: 'Fira Sans Extra Condensed';
+    src: url(http://assets/fonts/FiraSansExtraCondensed-SemiBold.ttf);
 }
 
 ul {
-    border-radius: 3px;
+    border-radius: 5px;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -22,7 +23,7 @@ ul {
   }
   
   li a, .dropbtn {
-    border-radius: 3px;
+    border-radius: 5px;
     display: inline-block;
     color: #ffffff;
     text-align: center;
