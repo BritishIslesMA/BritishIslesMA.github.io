@@ -5,7 +5,7 @@ div.content {
 
 @font-face {
     font-family: 'Fira Sans Extra Condensed';
-    src: url(http://assets/fonts/FiraSansExtraCondensed-SemiBold.ttf);
+    src: url(/assets/fonts/FiraSansExtraCondensed-SemiBold.ttf);
 }
 
 ul {
